@@ -2,19 +2,10 @@
 <!--h1 style="text-align:left;color:#606c71;margin-bottom: 0px;">Outlier Detection Analysis:</h1>
 <h2 style="text-align:left;color:#606c71;margin-top: 2px;">Approaches for Identifying Deviating Behaviors in Real-world</h2-->
 **Abstract**
-<p align="justify">Outlier detection is studied and applied in many domains. Outliers arise due to different reasons such as fraudulent activities, structural defects, health problems, and mechanical issues. The detection of outliers is a challenging task that can reveal system faults, fraud, and save people's lives. Outlier detection techniques are often domain-specific. The main challenge in outlier detection relates to modelling the normal behaviour in order to identify abnormalities. The choice of model is important, i.e., an unsuitable data model can lead to poor results. This requires a good understanding and interpretation of the data, the constraints, and requirements of the domain problem. Outlier detection is largely an unsupervised problem due to unavailability of labeled data and the fact that labeled data is expensive.</p>
 
-<p align="justify">In this thesis, we study and apply a combination of both machine learning and data mining techniques to build data-driven and domain-oriented outlier detection models. We focus on three real-world application domains: maritime surveillance, district heating, and online media and sequence datasets. We show the importance of data preprocessing as well as feature selection in building suitable methods for data modelling. We take advantage of both supervised and unsupervised techniques to create hybrid methods.</p>
 
-<p align="justify">More specifically, we propose a rule-based anomaly detection system using open data for the maritime surveillance domain. We exploit sequential pattern mining for identifying contextual and collective outliers in online media data. We propose a minimum spanning tree clustering technique for detection of groups of outliers in online media and sequence data. We develop a few higher order mining approaches for identifying manual changes and deviating behaviours in the heating systems at the building level. The proposed approaches are shown to be capable of explaining the underlying properties of the detected outliers. This can facilitate domain experts in narrowing down the scope of analysis and understanding the reasons of such anomalous behaviours. We also investigate the reproducibility of the proposed models in similar application domains.</p>
+**Included papers in licentiate and author contribution**
 
-**PhD dissertation description and author contribution**
-<p align="justify">This thesis consists of seven papers. In Paper I, the author has been one of the main drivers. While in the next six papers, he has been the main driver. The studies in all papers have been developed and designed under the guidance of the supervisors and domain experts. The formatting of the published papers included in this thesis has been changed to achieve a consistent style.</p>
-
-The final version of the dissertation can be downloaded as a <a href="./doc/thesis_final.pdf">[PDF]</a> (version: 2020-10-23).<br>
-The complete dissertation can be downloaded as a <a href="./doc/thesis.pdf">[PDF]</a> (version: 2020-10-12).
-
-**Included papers**
 <ol>
 <li>
 <p align="justify">Kazemi, S., <b>Abghari, S.</b>, Lavesson, N., Johnson, H., & Ryman, P. "Open data for anomaly detection in maritime surveillance". <i>Expert Systems with Applications</i>. 2013; 40(14), pp. 5719-5729. DOI:<a href="https://doi.org/10.1016/j.eswa.2013.04.029" target="_blank">10.1016/J.ESWA.2013.04.029</a> - 
