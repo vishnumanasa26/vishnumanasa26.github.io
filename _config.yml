@@ -3,3 +3,9 @@ plugins:
   - jekyll-seo-tag
 
 remote_theme: ngzhio/jekyll-theme-hamilton
+
+title: Vishnu Manasa Devagiri
+author: Vishnu Manasa Devagiri
+email: vishnu.manasa.devagiri@bth.se
+location: Karlskrona, Sweden
+skin: Daylight
