@@ -1,9 +1,3 @@
-title: Vishnu Manasa Devagiri
-author: Vishnu Manasa Devagiri
-email: vishnu.manasa.devagiri@bth.se
-location: Karlskrona, Sweden
-skin: Daylight
-
 plugins:
   - jekyll-remote-theme
 
