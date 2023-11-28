@@ -21,3 +21,5 @@ I am Vishnu Manasa Devagiri, PhD student at
 6. V. M. Devagiri, V. Boeva and S. Abghari, "Domain Adaptation Through Cluster Integration and Correlation," 2022 IEEE International Conference on Data Mining Workshops (ICDMW), Orlando, FL, USA, 2022, pp. 1-8
 
 7. V. M. Devagiri, V. Boeva, S. Abghari, “A Domain Adaptation Technique through Cluster Boundary Integration,” Evolving Systems. (minor revision was submitted on 13th September).
+
+8. V. M. Devagiri, P. Dagnely, V. Boeva, "Putting Sense into Multi-source Heterogeneous Data with Hypergraph Clustering Analysis" Submitted to Symposium on Intelligent Data Analysis (IDA), Stockholm, Sweden, 2023.
