@@ -3,6 +3,7 @@ author: Vishnu Manasa Devagiri
 email: vishnu.manasa.devagiri@bth.se
 location: Karlskrona, Sweden
 avatar: /logo.png
+subscribe: false
 
 plugins:
   - jekyll-remote-theme
