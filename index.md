@@ -1,12 +1,12 @@
-**Introduction**
+## Introduction
 
-Hey, I am Vishnu Manasa Devagiri, PhD student at 
+I am Vishnu Manasa Devagiri, PhD student at 
 <a style="text-decoration:none" href="https://www.bth.se/"> Blekinge Institute of Technology</a>, Sweden. My supervisors are 
 <a style="text-decoration:none" href="https://www.bth.se/staff/veselka-boeva-vbx/"> Veselka Boeva </a> and 
 <a style="text-decoration:none" href="https://www.bth.se/eng/staff/niklas-lavesson-nla"> Niklas Lavesson </a>.
 
 
-**Publications included in the thesis**
+## Publications included in the thesis
 
 1. V. M. Devagiri, V. Boeva, E. Tsiporkova, Split-Merge Evolutionary Clustering for Multi-View Streaming Data, 24th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems KES 2020, Procedia Computer Science 176 (2020) 460– 469. 
 
