@@ -1,5 +1,3 @@
-## Introduction
-
 I am Vishnu Manasa Devagiri, PhD student at 
 <a style="text-decoration:none" href="https://www.bth.se/"> Blekinge Institute of Technology</a>, Sweden. My supervisors are 
 <a style="text-decoration:none" href="https://www.bth.se/staff/veselka-boeva-vbx/"> Prof. Veselka Boeva </a> and 
