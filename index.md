@@ -5,6 +5,7 @@ I am Vishnu Manasa Devagiri, PhD student at
 <a style="text-decoration:none" href="https://www.bth.se/staff/veselka-boeva-vbx/"> Prof. Veselka Boeva </a> and 
 <a style="text-decoration:none" href="https://www.bth.se/eng/staff/niklas-lavesson-nla"> Prof. Niklas Lavesson</a>.
 
+The abstract of my PhD thesis is available <a style="text-decoration:none" href="abstract.html">here</a>.
 
 ## Publications included in the thesis
 
