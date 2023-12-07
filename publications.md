@@ -33,7 +33,7 @@ title: "List of publications"
 <li>V. Boeva, M. Angelova, V. M. Devagiri, E. Tsiporkova. Patient Profiling Using Evolutionary Clustering. ACM Celebration of Women in Computing: womENcourage 2019, Rome, Italy, September 2019. </li>
 <li>V.M. Devagiri, V. Boeva, S. Abghari. A Domain Integration Bi-correlation Clustering. PhD Track, DSAA 2022</li>
 </ol>
-## Other studies
+### Other studies
 <ol>
 <li> V. M. Devagiri, and A. Cheddad, "Splicing Forgery Detection and the Impact of Image Resolution," International Conference on Electronics Computers and Artificial Intelligence, ISSN 2378-7147, Proceedings of the 9th International Conference on Electronics, Computers and Artificial Intelligence - ECAI 2017, IEEE, 2017. DOI: <a style="text-decoration:none" href="https://doi.org/10.1109/ECAI.2017.8166431">10.1109/ECAI.2017.8166431</a></li> 
 </ol>
