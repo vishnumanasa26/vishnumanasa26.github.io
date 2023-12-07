@@ -3,7 +3,7 @@ layout: page
 title: "List of publications"
 ---
 
-## Studies included in the thesis
+##Studies included in the thesis
 <ol>
 </li>V. Boeva, M. Angelova, V. M. Devagiri, E. Tsiporkova. Bipartite Split-Merge Evolutionary Clustering, J. van den Herik et al. (Eds.): ICAART 2019, Springer Nature book: Agents and Artificial Intelligence, LNAI 11978 no. 11, pp. 205-223, 2019. DOI: <a style="text-decoration:none" href="https://doi.org/10.1007/978-3-030-37494-5_11">10.1007/978-3-030-37494-5_11</a></li>
 
