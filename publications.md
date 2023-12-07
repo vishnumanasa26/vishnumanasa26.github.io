@@ -29,11 +29,11 @@ title: "List of publications"
 <li>V. Boeva, E. Casalicchio, S. Abghari, A.A. Al-Saedi, V.M. Devagiri, A. Petef, P. Exner, A. Isberg. and M. Jasarevic. 2022. “Distributed and Adaptive Edge-based AI Models for Sensor Networks (DAISeN)." Annals of Computer Science and Information Systems 31 (2022): 71-78. DOI: <a style="text-decoration:none" href="http://dx.doi.org/10.15439/2022F267">10.15439/2022F267</a></li>
 </ol>
 #### Posters
-<ol>
+<ol style='text-align: justify;'>
 <li>V. Boeva, M. Angelova, V. M. Devagiri, E. Tsiporkova. Patient Profiling Using Evolutionary Clustering. ACM Celebration of Women in Computing: womENcourage 2019, Rome, Italy, September 2019. </li>
 <li>V.M. Devagiri, V. Boeva, S. Abghari. A Domain Integration Bi-correlation Clustering. PhD Track, DSAA 2022</li>
 </ol>
 ### Other studies
-<ol>
+<ol style='text-align: justify;'>
 <li> V. M. Devagiri, and A. Cheddad, "Splicing Forgery Detection and the Impact of Image Resolution," International Conference on Electronics Computers and Artificial Intelligence, ISSN 2378-7147, Proceedings of the 9th International Conference on Electronics, Computers and Artificial Intelligence - ECAI 2017, IEEE, 2017. DOI: <a style="text-decoration:none" href="https://doi.org/10.1109/ECAI.2017.8166431">10.1109/ECAI.2017.8166431</a></li> 
 </ol>
