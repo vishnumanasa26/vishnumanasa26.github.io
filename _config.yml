@@ -19,4 +19,4 @@ remote_theme: ngzhio/jekyll-theme-hamilton
 exclude:
   - README.md
 
-logo: /logo.jpeg
+logo: /logo
