@@ -1,3 +1,8 @@
 - title: LinkedIn
   url: https://www.linkedin.com/in/vishnumanasadevagiri/
   icon: fab fa-linkedin
+  
+- title: Abstract
+  url: /abstract
+- title: Publications
+  url: /publications
