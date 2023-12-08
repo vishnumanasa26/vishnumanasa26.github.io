@@ -14,7 +14,7 @@ title: "List of publications"
 
 <li style='text-align: justify;'>C. Åleskog, V. M. Devagiri, V. Boeva, A Graph-based Multi-view Clustering Approach for Continuous Pattern Mining. In: W. Pedrycz, SM. Chen (Eds) Recent Advancements in Multi-View Data Analytics. Studies in Big Data, vol 106. Springer, Cham, 2022. DOI: <a style="text-decoration:none" href="https://doi.org/10.1007/978-3-030-95239-6_8">10.1007/978-3-030-95239-6_8</a></li>
 
-<li style='text-align: justify;'>V. M. Devagiri, V. Boeva, S. Abghari, F. Basiri, and N. Lavesson, “Multi-View Data Analysis Techniques for Monitoring Smart Building Systems,” Sensors, vol. 21, no. 20, p. 6775, Oct. 2021. DOI: <a style="text-decoration:none" href="https://doi.org/10.3390/s21206775">10.3390/s21206775</a></li>
+<li style='text-align: justify;'>V. M. Devagiri, V. Boeva, S. Abghari, F. Basiri, and N. Lavesson, Multi-View Data Analysis Techniques for Monitoring Smart Building Systems, Sensors, vol. 21, no. 20, p. 6775, Oct. 2021. DOI: <a style="text-decoration:none" href="https://doi.org/10.3390/s21206775">10.3390/s21206775</a></li>
 
 <li style='text-align: justify;'>V. M. Devagiri, V. Boeva and S. Abghari, Domain Adaptation Through Cluster Integration and Correlation, 2022 IEEE International Conference on Data Mining Workshops (ICDMW), Orlando, FL, USA, 2022, pp. 1-8. DOI: <a style="text-decoration:none" href="https://doi.org/10.1109/ICDMW58026.2022.00025">10.1109/ICDMW58026.2022.00025</a></li>
 
