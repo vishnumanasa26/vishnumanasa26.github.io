@@ -7,5 +7,5 @@ Title - Mining Evolving and Heterogeneous Data: Cluster-based Analysis Technique
 
 <a style="text-decoration:none" href="/abstract">Link to the abstract</a>
 
-<a style="text-decoration:none" href="/publications">Link to the list of publications</a> </p>
+<a style="text-decoration:none" href="/publications">Link to the list of publications</a>
 
