@@ -35,5 +35,5 @@ title: "List of publications"
 </ol>
 ### Other studies
 <ol style='text-align: justify;'>
-<li> V. M. Devagiri, and A. Cheddad. "Splicing Forgery Detection and the Impact of Image Resolution". In: International Conference on Electronics Computers and Artificial Intelligence, ISSN 2378-7147, Proceedings of the 9th International Conference on Electronics, Computers and Artificial Intelligence - ECAI 2017, IEEE, 2017. DOI: <a style="text-decoration:none" href="https://doi.org/10.1109/ECAI.2017.8166431">10.1109/ECAI.2017.8166431</a></li> 
+<li> V. M. Devagiri and A. Cheddad. “Splicing forgery detection and the impact of image resolution”. In: 2017 9th International Conference on Electronics, Computers and Artificial Intelligence (ECAI). 2017, pp. 1–6. DOI: <a style="text-decoration:none" href="https://doi.org/10.1109/ECAI.2017.8166431">10.1109/ECAI.2017.8166431</a></li> 
 </ol>
