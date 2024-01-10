@@ -17,7 +17,7 @@ title: "List of publications"
 
 <li style='text-align: justify;'>V. M. Devagiri, V. Boeva, and S. Abghari. “Domain Adaptation Through Cluster Integration and Correlation”. In: 2022 IEEE International Conference on Data Mining Workshops (ICDMW). 2022, pp. 1–8. DOI: <a style="text-decoration:none" href="https://doi.org/10.1109/ICDMW58026.2022.00025">10.1109/ICDMW58026.2022.00025</a></li>
 
-<li style='text-align: justify;'>V. M. Devagiri, V. Boeva, and S. Abghari. "A Domain Adaptation Technique through Cluster Boundary Integration". Evolving Systems. (minor revision was submitted on 13th September).</li>
+<li style='text-align: justify;'>V. M. Devagiri, V. Boeva, and S. Abghari. "A Domain Adaptation Technique through Cluster Boundary Integration". Evolving Systems. (minor revision was submitted on 04th January 2024).</li>
 
 <li style='text-align: justify;'>V. M. Devagiri, P. Dagnely, V. Boeva and E. Tsiporkova. "Putting Sense into Multi-source Heterogeneous Data with Hypergraph Clustering Analysis". Submitted to Symposium on Intelligent Data Analysis (IDA), Stockholm, Sweden, 2023.</li>
 
