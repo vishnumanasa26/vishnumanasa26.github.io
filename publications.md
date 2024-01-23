@@ -19,7 +19,7 @@ title: "List of publications"
 
 <li style='text-align: justify;'>V. M. Devagiri, V. Boeva, and S. Abghari. "A Domain Adaptation Technique through Cluster Boundary Integration". Evolving Systems. (minor revision was submitted on 04th January 2024).</li>
 
-<li style='text-align: justify;'>V. M. Devagiri, P. Dagnely, V. Boeva and E. Tsiporkova. "Putting Sense into Multi-source Heterogeneous Data with Hypergraph Clustering Analysis". Submitted to Symposium on Intelligent Data Analysis (IDA), Stockholm, Sweden, 2023.</li>
+<li style='text-align: justify;'>V. M. Devagiri, P. Dagnely, V. Boeva and E. Tsiporkova. "Putting Sense into Multi-source Heterogeneous Data with Hypergraph Clustering Analysis". Accepted for the Symposium on Intelligent Data Analysis (IDA), Stockholm, Sweden, April 2024.</li>
 
 </ol>
 ### Studies related to the thesis but not included
