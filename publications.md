@@ -4,16 +4,16 @@ title: "List of publications"
 ---
 
 ### Studies included in the thesis
-<ol>
+<ol type="I">
 <li style='text-align: justify;'>V. Boeva, M. Angelova, V. M. Devagiri, and E. Tsiporkova. “Bipartite Split-Merge Evolutionary Clustering”. In: Agents and Artificial Intelligence. Ed. by J. van den Herik, A. P. Rocha, and L. Steels. Cham: Springer International Publishing, 2019, pp. 204–223. DOI: <a style="text-decoration:none" href="https://doi.org/10.1007/978-3-030-37494-5_11">10.1007/978-3-030-37494-5_11</a></li>
 
 <li style='text-align: justify;'>V. M. Devagiri, V. Boeva, and E. Tsiporkova. “Split-Merge Evolutionary Clustering for Multi-View Streaming Data”. In: Procedia Computer Science 176 (2020). Knowledge-Based and Intelligent Information Engineering Systems: Proceedings of the 24th International Conference KES2020, pp. 460–469. ISSN: 1877-0509. DOI: <a style="text-decoration:none" href="https://doi.org/10.1016/j.procs.2020.08.048">10.1016/j.procs.2020.08.048</a></li>
 
 <li style='text-align: justify;'>V. M. Devagiri, V. Boeva, and S. Abghari. “A Multi-view Clustering Approach for Analysis of Streaming Data”. In: Artificial Intelligence Applications and Innovations. Ed. by I. Maglogiannis, J. Macintyre, and L. Iliadis. Cham: Springer International Publishing, 2021, pp. 169–183. ISBN: 978-3-030-79150-6. DOI: <a style="text-decoration:none" href="https://doi.org/10.1007/978-3-030-79150-6_14">10.1007/978-3-030-79150-6_14</a></li>
 
-<li style='text-align: justify;'>C. Åleskog, V. M. Devagiri, and V. Boeva. “A Graph-Based Multi-view Clustering Approach for Continuous Pattern Mining”. In: Recent Advancements in Multi-View Data Analytics. Ed. by W. Pedrycz and S.-M. Chen. Cham: Springer International Publishing, 2022, pp. 201–237. ISBN: 978-3-030-95239-6. DOI: <a style="text-decoration:none" href="https://doi.org/10.1007/978-3-030-95239-6_8">10.1007/978-3-030-95239-6_8</a></li>
-
 <li style='text-align: justify;'>V. M. Devagiri, V. Boeva, S. Abghari, F. Basiri, and N. Lavesson. “Multi-View Data Analysis Techniques for Monitoring Smart Building Systems”. In: Sensors 21.20 (2021). ISSN: 1424-8220. DOI: <a style="text-decoration:none" href="https://doi.org/10.3390/s21206775">10.3390/s21206775</a></li>
+
+<li style='text-align: justify;'>C. Åleskog, V. M. Devagiri, and V. Boeva. “A Graph-Based Multi-view Clustering Approach for Continuous Pattern Mining”. In: Recent Advancements in Multi-View Data Analytics. Ed. by W. Pedrycz and S.-M. Chen. Cham: Springer International Publishing, 2022, pp. 201–237. ISBN: 978-3-030-95239-6. DOI: <a style="text-decoration:none" href="https://doi.org/10.1007/978-3-030-95239-6_8">10.1007/978-3-030-95239-6_8</a></li>
 
 <li style='text-align: justify;'>V. M. Devagiri, V. Boeva, and S. Abghari. “Domain Adaptation Through Cluster Integration and Correlation”. In: 2022 IEEE International Conference on Data Mining Workshops (ICDMW). 2022, pp. 1–8. DOI: <a style="text-decoration:none" href="https://doi.org/10.1109/ICDMW58026.2022.00025">10.1109/ICDMW58026.2022.00025</a></li>
 
